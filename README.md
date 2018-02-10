@@ -2,4 +2,4 @@
 
 Ceaser chiper implementation with C++ 
 
-Learn cryptographt.
+Learn cryptography.
