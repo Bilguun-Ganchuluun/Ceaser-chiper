@@ -35,7 +35,7 @@ string encryption(string text, int key){
 				enc+=(((text[i]-97)+key) % 26) + 97;		//((letter ascii - 97) + key) + 97
 			}
 			
-			continue;										//isalpha(text[i]) == false
+			continue; 										//isalpha(text[i]) == false
     	}
     	
     	enc+=text[i];										//
